@@ -1,0 +1,89 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+**/build/
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-version
+.flutter/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android related
+**/android/.gradle/
+**/android/.idea/
+**/android/local.properties
+**/android/app/debug
+**/android/app/profile
+**/android/app/release
+**/android/gradle/wrapper/gradle-wrapper.properties
+**/android/gradlew
+**/android/gradlew.bat
+
+# iOS related
+**/ios/.generated/
+**/ios/Flutter/
+**/ios/Pods/
+**/ios/Runner.xcworkspace/
+**/ios/Runner.xcodeproj/project.xcworkspace/
+**/ios/Runner.xcodeproj/xcuserdata/
+**/ios/Runner.xcodeproj/project.pbxproj
+**/ios/Flutter/ephemeral/
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Flutter/Generated.xcconfig
+
+# macOS related
+**/macos/Flutter/ephemeral/
+**/macos/Flutter/Generated.xcconfig
+**/macos/Flutter/flutter_export_environment.sh
+**/macos/Pods/
+**/macos/Runner.xcworkspace/
+**/macos/Runner.xcodeproj/project.xcworkspace/
+**/macos/Runner.xcodeproj/xcuserdata/
+**/macos/Runner.xcodeproj/project.pbxproj
+
+# Linux related
+**/linux/flutter/
+**/linux/CMakeLists.txt
+**/linux/build/
+
+# Windows related
+**/windows/flutter/
+**/windows/CMakeLists.txt
+**/windows/build/
+
+# Web related
+**/web/flutter/
+**/web/.last_build_id
+
+# VS Code related
+.vscode/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
